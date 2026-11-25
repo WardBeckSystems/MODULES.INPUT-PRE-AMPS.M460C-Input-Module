@@ -1,5 +1,5 @@
 # 1974 - M460C - Input Module Schematic.jpg
-Wiki page: [M460C](../../../PAGES/M460C.md)
+Wiki page: [M460C](../../../../PAGES/M460C.md)
 
 
 - **Year:** 1974 (module estimate (family))
@@ -54,7 +54,7 @@ T
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M460C/1974 - M460C - Input Module Schematic.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M460C/SCHEMATICS/1974 - M460C - Input Module Schematic.jpg",
  "sha256": "dad8d89cb9cd7f92c45757a5b36ea0ea9728e21f19049b82221129beebd7bf3a",
  "kind": "module",
  "models": [
