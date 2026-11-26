@@ -11,6 +11,20 @@ Wiki page: [M460C](../../../../PAGES/M460C.md)
 - **Size:** 2,684,040 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 251 mm, 2000 × 1164 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–170 mm up
+- **Outlines:** line 1,481 rings, 14,821 straight (23,730 mm) / 2,908 curved (3,158 mm); text 42 rings, 279 straight (202 mm) / 79 curved (84.3 mm)
+- **Centre lines:** 17,764 paths (391 closed); straight 14,657 mm, curved 59.7 mm; horizontal 6,652 mm, vertical 3,799 mm, diagonal 4,205 mm
+- **Circles and arcs:** 1 circles, 20 arcs; largest r 1.1 @ (256.1, 17.2)
+- **Closed boxes:** 29
+- **Dots (junctions):** 1
+- **Words (OCR):** 3 in 3 lines: 38~ · 2o2 · LOIE
+- **Wiring (first pass):** 203 connected wire groups from 1,188 runs; labelled ends: 22 mm → 2o2; 9 mm → 2o2; 6 mm → 38~; 6 mm → 2o2
+
+Every curve, box, word and wire group: [1974 - M460C - Input Module Schematic (traced).json](../SCHEMATICS/1974%20-%20M460C%20-%20Input%20Module%20Schematic%20%28traced%29.json) (the CAD file: `1974 - M460C - Input Module Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)
