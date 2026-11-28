@@ -1,5 +1,5 @@
 # 1974 - M460C - Input Module Schematic.jpg
-Wiki page: [M460C](../../../../PAGES/M460C.md)
+Wiki page: [M460C](../)
 
 
 - **Year:** 1974 (module estimate (family))
